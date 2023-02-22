@@ -1,7 +1,3 @@
-//
-// Created by levib on 2022. 09. 28..
-//
-
 #ifndef KHF02_V2_ZMLCHECKER_H
 #define KHF02_V2_ZMLCHECKER_H
 
